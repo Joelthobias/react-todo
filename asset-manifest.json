@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joelthobias/react-todo/static/css/main.1c5c797f.css",
+    "main.js": "/Joelthobias/react-todo/static/js/main.7ac2371b.js",
+    "index.html": "/Joelthobias/react-todo/index.html",
+    "main.1c5c797f.css.map": "/Joelthobias/react-todo/static/css/main.1c5c797f.css.map",
+    "main.7ac2371b.js.map": "/Joelthobias/react-todo/static/js/main.7ac2371b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5c797f.css",
+    "static/js/main.7ac2371b.js"
+  ]
+}

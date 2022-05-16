@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/Joelthobias/react-todo/static/css/main.1c5c797f.css",
-    "main.js": "/Joelthobias/react-todo/static/js/main.7ac2371b.js",
-    "index.html": "/Joelthobias/react-todo/index.html",
-    "main.1c5c797f.css.map": "/Joelthobias/react-todo/static/css/main.1c5c797f.css.map",
-    "main.7ac2371b.js.map": "/Joelthobias/react-todo/static/js/main.7ac2371b.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1c5c797f.css",
-    "static/js/main.7ac2371b.js"
-  ]
+  "main.css": "/Joelthobias/react-todo/static/css/main.70c1054b.chunk.css",
+  "main.js": "/Joelthobias/react-todo/static/js/main.45dd24df.chunk.js",
+  "main.js.map": "/Joelthobias/react-todo/static/js/main.45dd24df.chunk.js.map",
+  "static/js/1.a88fee91.chunk.js": "/Joelthobias/react-todo/static/js/1.a88fee91.chunk.js",
+  "static/js/1.a88fee91.chunk.js.map": "/Joelthobias/react-todo/static/js/1.a88fee91.chunk.js.map",
+  "runtime~main.js": "/Joelthobias/react-todo/static/js/runtime~main.dcade236.js",
+  "runtime~main.js.map": "/Joelthobias/react-todo/static/js/runtime~main.dcade236.js.map",
+  "static/css/main.70c1054b.chunk.css.map": "/Joelthobias/react-todo/static/css/main.70c1054b.chunk.css.map",
+  "index.html": "/Joelthobias/react-todo/index.html",
+  "precache-manifest.9df8af4e47e1b92b2f239a6b25677c85.js": "/Joelthobias/react-todo/precache-manifest.9df8af4e47e1b92b2f239a6b25677c85.js",
+  "service-worker.js": "/Joelthobias/react-todo/service-worker.js"
 }

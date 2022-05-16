@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+.todos{
+    min-height: 100px;
+}
+body {
+    background-color: #8eb57c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+ .mainHeading h1 {
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: white;
+    font-weight:bold ;
+    position: relative;
+    z-index: 0;
+}
+h2::after ,h1::after {
+    position: absolute;
+    content: '';
+    height: 2px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 100px;
+    background: white;
+    z-index: 1;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+
+ .input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ .input {
+    margin-top: 0.8em;
+    width: 20em;
+    height: 2em;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+ .input input {
+    width: 100%;
+    height: 1.6em;
+    border-color: transparent;
+    outline-color: transparent;
+}
+
+ i {
+    cursor: pointer;
+    font-size: larger;
+    font-weight: 900;
+    color: grey;
+    margin-right: 5px;
+}
+ .todos {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+ .todos .todo {
+    margin-top: 0.8em;
+    width: 20em;
+    height: 2em;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 6px;
+    padding: 5px;
+}
+.todos .todo .left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.todos .todo  p {
+    margin-left: 3px;
+    font-size: medium;
+    font-weight: 700;
+    font-style: normal;
+    color: grey;
+    margin: 5px 1rem;
+}

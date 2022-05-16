@@ -49,8 +49,6 @@ function App() {
               </div>
             </div>
               )
-            }else{
-              <h1 className="text-center">No Active Todos</h1>
             }
             return null
           })}
